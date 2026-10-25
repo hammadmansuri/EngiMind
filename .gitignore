@@ -1,0 +1,22 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.chroma/
+logs/
+.streamlit/
+*.pdf
+!sample.pdf
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Personal learning and interview notes
+/AI_ARCHITECT_INTERVIEW_ANSWERS.md
+/Design.md
+/INTERVIEW.md
+/LANGCHAIN_KNOWLEDGE.md
+/LANGGRAPH_AGENTIC_RAG.md
+/PYTHON_BASICS.md
+/RAG_KNOWLEDGE_BASE.md
